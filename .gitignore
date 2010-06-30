@@ -1,0 +1,5 @@
+config.ru
+public
+tmp
+log
+config
